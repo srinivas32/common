@@ -1,3 +1,6 @@
+arch:
+  - amd64
+  - ppc64le
 language: go
 # Supported Go versions are synced with github.com/prometheus/client_golang.
 go:
